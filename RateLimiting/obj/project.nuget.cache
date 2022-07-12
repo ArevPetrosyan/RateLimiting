@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aEjgkywXpODMQil1YyB8aSefIBFBnpdpaPIrK4XoOCEIHytITjHyUCll7QD5gDG0i67Z5ilfAIvgtDroVPaFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aPetrosyan\\Source\\Repos\\RateLimiting55\\RateLimiting\\RateLimiting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\aPetrosyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
